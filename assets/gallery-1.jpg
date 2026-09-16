@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#F5F1E6"/><stop offset="1" stop-color="#6B4F2A"/></linearGradient></defs>
+<rect width="1536" height="1024" fill="url(#g)"/>
+<circle cx="1200" cy="180" r="260" fill="#1F3D2B" opacity="0.25"/>
+<circle cx="220" cy="880" r="200" fill="#1F3D2B" opacity="0.18"/>
+<rect x="0" y="760" width="1536" height="264" fill="#1F3D2B" opacity="0.85"/>
+<text x="768" y="480" font-family="Georgia,serif" font-size="56" fill="#F5F1E6" text-anchor="middle">Anb Plomberie — Plombier professionnel en action, réalis</text>
+<text x="768" y="700" font-family="Arial,sans-serif" font-size="28" fill="#F5F1E6" opacity="0.9" text-anchor="middle" xml:space="preserve">Photographie Photo réaliste, prise sur le vif, mettant en valeur le travail de qualité et le professionnalisme de l'arti…</text>
+</svg>
